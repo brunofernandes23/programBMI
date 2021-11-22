@@ -1,4 +1,4 @@
-\***\*BMI Calculator\*\***
+****BMI Calculator****
 
 > In another project I made the BMI program, but it was simple with only interactions via prompt. In this project I added better error handling and also added more styling.
 
